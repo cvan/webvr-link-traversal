@@ -1,0 +1,12 @@
+{
+  "name": "WebVR Link Traversal",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "A browser extension that allows you to seamlessly navigate between WebVR pages without taking off a headset.",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "start": "http-server -c-1"
+  }
+}
