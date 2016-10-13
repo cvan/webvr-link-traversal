@@ -1,5 +1,5 @@
 {
-  "name": "WebVR Link Traversal",
+  "name": "webvr-link-traversal",
   "version": "1.0.0",
   "private": "true",
   "description": "A browser extension that allows you to seamlessly navigate between WebVR pages without taking off a headset.",
